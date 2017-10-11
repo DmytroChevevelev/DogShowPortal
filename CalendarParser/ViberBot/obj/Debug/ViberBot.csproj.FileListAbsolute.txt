@@ -1,0 +1,6 @@
+D:\Projects\DogShowPortal\CalendarParser\ViberBot\bin\Debug\ViberBot.exe.config
+D:\Projects\DogShowPortal\CalendarParser\ViberBot\bin\Debug\ViberBot.exe
+D:\Projects\DogShowPortal\CalendarParser\ViberBot\bin\Debug\ViberBot.pdb
+D:\Projects\DogShowPortal\CalendarParser\ViberBot\obj\Debug\ViberBot.csprojResolveAssemblyReference.cache
+D:\Projects\DogShowPortal\CalendarParser\ViberBot\obj\Debug\ViberBot.exe
+D:\Projects\DogShowPortal\CalendarParser\ViberBot\obj\Debug\ViberBot.pdb

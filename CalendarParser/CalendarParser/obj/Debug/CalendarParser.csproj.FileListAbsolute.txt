@@ -1,0 +1,9 @@
+D:\Projects\DogShowPortal\CalendarParser\CalendarParser\bin\Debug\CalendarParser.exe.config
+D:\Projects\DogShowPortal\CalendarParser\CalendarParser\bin\Debug\CalendarParser.exe
+D:\Projects\DogShowPortal\CalendarParser\CalendarParser\bin\Debug\CalendarParser.pdb
+D:\Projects\DogShowPortal\CalendarParser\CalendarParser\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\DogShowPortal\CalendarParser\CalendarParser\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\DogShowPortal\CalendarParser\CalendarParser\bin\Debug\HtmlAgilityPack.xml
+D:\Projects\DogShowPortal\CalendarParser\CalendarParser\obj\Debug\CalendarParser.csprojResolveAssemblyReference.cache
+D:\Projects\DogShowPortal\CalendarParser\CalendarParser\obj\Debug\CalendarParser.exe
+D:\Projects\DogShowPortal\CalendarParser\CalendarParser\obj\Debug\CalendarParser.pdb

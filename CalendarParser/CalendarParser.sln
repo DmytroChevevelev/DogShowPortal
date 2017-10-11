@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarParser", "CalendarParser\CalendarParser.csproj", "{B1DDCDF1-A784-4C1F-B5D6-A6EDB1C74C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordAccess", "..\WordAccess\WordAccess\WordAccess\WordAccess.csproj", "{9D08C662-99BA-4AEE-8C42-24CA47C157A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViberBot", "ViberBot\ViberBot.csproj", "{402BA4A4-4FB7-4F99-BF2F-0FB879E6DE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DDCDF1-A784-4C1F-B5D6-A6EDB1C74C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DDCDF1-A784-4C1F-B5D6-A6EDB1C74C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DDCDF1-A784-4C1F-B5D6-A6EDB1C74C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DDCDF1-A784-4C1F-B5D6-A6EDB1C74C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D08C662-99BA-4AEE-8C42-24CA47C157A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D08C662-99BA-4AEE-8C42-24CA47C157A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D08C662-99BA-4AEE-8C42-24CA47C157A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D08C662-99BA-4AEE-8C42-24CA47C157A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{402BA4A4-4FB7-4F99-BF2F-0FB879E6DE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402BA4A4-4FB7-4F99-BF2F-0FB879E6DE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402BA4A4-4FB7-4F99-BF2F-0FB879E6DE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402BA4A4-4FB7-4F99-BF2F-0FB879E6DE71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
